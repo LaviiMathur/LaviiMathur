@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://drive.google.com/uc?export=view&id=1Bz43UHxNAp1iKAp-KhT550N38i58rwfM" align="center" style="width: 100%" />
+<img src="https://drive.google.com/uc?export=view&id=1Bz43UHxNAp1iKAp-KhT550N38i58rwfM" 
+     style="width: 150px; height: 150px; border-radius: 50%; display: block; margin: auto;" />
+
 </div>  
   
 
