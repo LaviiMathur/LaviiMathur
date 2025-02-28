@@ -9,7 +9,7 @@
     overflow: hidden; 
     margin: auto;">
   <img src="https://drive.google.com/uc?export=view&id=1Bz43UHxNAp1iKAp-KhT550N38i58rwfM" 
-       style="width: 100%; height: 100%; object-fit: cover;" />
+       style="width: 50%;  object-fit: cover;" />
 </div>
 
 </div>  
