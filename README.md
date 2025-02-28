@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **I'm 19 years old college student, trying to improve my skill set.**
 
-- 📫 How to reach me **lavishmathur95@gmail.com**
+- 📫 How to reach me **mathurlaviish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
