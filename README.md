@@ -1,19 +1,4 @@
-<div align="center">
-<div style="
-    width: 150px; 
-    height: 150px; 
-    border-radius: 50%; 
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-    overflow: hidden; 
-    margin: auto;">
-  <img src="https://drive.google.com/uc?export=view&id=1Bz43UHxNAp1iKAp-KhT550N38i58rwfM" 
-       style="width: 150px; hight:150px object-fit: cover;" />
-</div>
 
-</div>  
-  
 
 ### <div align="center">I'm Lavish Mathur, a full-stack  developer </div>  
   
