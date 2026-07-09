@@ -3,16 +3,6 @@
 ### <div align="center">I'm Lavish Mathur, a full-stack  developer </div>  
   
 
-- 🌱  I’m currently building a **blogging platform** for my minor project  
-  
-
-- 📚 I'm currently learning **React, Node.js, PostgreSQL, and authentication systems (JWT, OAuth, Redis)**.  
-  
-
--  🚀 I’m practicing these technologies by building projects and plan to learn **TypeScript and Angular** next.  
-  
-
-<br/>  
 
 
 ## My Skill Set  
