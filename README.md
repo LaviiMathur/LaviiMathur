@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Lavish Mathur 👋</h2>
-<p align="center"><b>Software Engineer</b> at PSA Renewables · Full-stack developer · Linux &amp; home-lab enthusiast</p>
+<p align="center"><b>Software Engineer</b> at <a href="https://psarenewables.com" target="_blank">PSA Renewables</a> · Full-stack developer · Linux &amp; home-lab enthusiast</p>
 
 <br/>
 
